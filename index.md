@@ -4,6 +4,8 @@ Welcome to the Worldline - University of St. Gallen - Retail Trade and Services 
 
 You may access this website over GitHub or [www.retailindex.ch](https://www.retailindex.ch/).
 
+Find a list of all available spec-argument combinations on the [seasonal website](http://www.seasonal.website/examples.html).
+
 You can use the [editor on GitHub](https://github.com/MatthiasSP/matthiassp.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
