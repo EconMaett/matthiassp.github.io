@@ -1,5 +1,9 @@
 # Using Payment Transaction Data to monitor Turnover in Retail Trade and Services in Switzerland
 
+Welcome to the Worldline - University of St. Gallen - Retail Trade and Services Index, or WLD-UNISG-RTSI for short.
+
+You may access this website over GitHub or [www.retailindex.ch](https://www.retailindex.ch/).
+
 You can use the [editor on GitHub](https://github.com/MatthiasSP/matthiassp.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
