@@ -29,6 +29,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 - [Academic Phrasebank by the University of Manchester](https://www.phrasebank.manchester.ac.uk/)
 - [NZZ Visuals Styleguide](https://nzzdev.github.io/Storytelling-Styleguide/#/)
 - [Overleaf Templates](https://de.overleaf.com/latex/templates)
+- [Better BibTeX for Zotero by Emiliano Heyns](https://retorque.re/zotero-better-bibtex/)
 
 ### COVID-19 Data Hub
 - [COVID-19 Data Hub by Emanuele Guidotti, David Ardia, and Will Rowe](https://doi.org/10.21105/joss.02376)
