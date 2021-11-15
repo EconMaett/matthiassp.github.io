@@ -50,4 +50,4 @@ For questions and comments, please do not hesitate to contact me under via [emai
 - [Better BibTeX for Zotero by Emiliano Heyns](https://retorque.re/zotero-better-bibtex/)
 
 ### COVID-19 Data Hub
-- [COVID-19 Data Hub by Emanuele Guidotti, David Ardia, and Will Rowe](https://doi.org/10.21105/joss.02376)
+- Guidotti et al., (2020). COVID-19 Data Hub. Journal of Open Source Software, 5(51), 2376, https://doi.org/10.21105/joss.02376
