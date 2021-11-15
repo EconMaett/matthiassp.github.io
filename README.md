@@ -1,4 +1,4 @@
-# Wellcome to retailindex.ch!
+# Welcome to retailindex.ch!
 
 This website was created as a one-stop-shop for everyone interested in using payment transaction data to monitoring turnover in the retail trade and services sector.
 
