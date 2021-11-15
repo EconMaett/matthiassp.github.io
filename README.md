@@ -8,8 +8,6 @@ This project was created as part of my thesis for my [Master in Economics](https
 
 It is an outgrowth of the project [Monitoring Consumption Switzerland](https://monitoringconsumption.com/), a joint initiative of the University of St. Gallen, the University of Lausanne–E4S, and Novalytica, supported by SIX, Worldline as well as the Swiss Payments Association.
 
-You may access this webpage over my [GitHub profile](matthiassp.github.io) or over the custom domain [www.retailindex.ch](https://www.retailindex.ch/).
-
 Please note that the opinions expressed herein reflect those of the author and not necessarily those of the University of St. Gallen or of the project Monitoring Consumption Switzerland.
 
 This is a public repository with an [MIT license](https://choosealicense.com/licenses/mit/), allowing anyone to modify and distribute this software and associated documentation files as long as the corresponding copyright notice and permission are included.
