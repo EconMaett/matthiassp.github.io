@@ -33,7 +33,6 @@ For questions and comments, please do not hesitate to contact me under via [emai
 - Automatic Forecasting Procedure by Sean Taylor and Ben Letham: [The Prophet method](https://cran.r-project.org/package=prophet), Paper: [Forecasting at scale](https://doi.org/10.1080/00031305.2017.1380080)
 - [Workday, holiday and calendar adjustment with 21st century data: Monthly aggregates from daily diesel fuel purchases](https://www.nber.org/papers/w16897)
 - [Modeling of Holiday Effects and Seasonality in Daily Time Series](https://www.census.gov/library/working-papers/2018/adrm/rrs2018-01.html)
-- [R Interface to X-13ARIMA-SEATS by Christoph Sax and Dirk Eddelbuettel](https://www.jstatsoft.org/v087/i11)
 - Sax, C., & Eddelbuettel, D. (2018). Seasonal Adjustment by X-13ARIMA-SEATS in R. Journal of Statistical Software, 87(11), 1–17. https://doi.org/10.18637/jss.v087.i11
 - [Using Daily Payment Processor Data to Determine Existence and Length of Retail Shopping Event Effects](https://www.census.gov/library/working-papers/2019/econ/adep-wp-hutchinson-czaplicki.html)
 
