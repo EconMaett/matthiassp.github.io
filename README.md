@@ -18,7 +18,7 @@ For questions and comments, please do not hesitate to contact me under via [emai
 
 Please find some resources below:
 
-### The Economist about the Real Time Revolution
+### The Economist about the real time revolution in economics
 - [The real-time revolution - How the pandemic reshaped the dismal science](https://www.economist.com/briefing/2021/10/23/enter-third-wave-economics)
 - [Real-time danger. Why real-time economic data need to be treated with caution](https://www.economist.com/finance-and-economics/2020/07/23/why-real-time-economic-data-need-to-be-treated-with-caution)
 
@@ -28,25 +28,25 @@ Please find some resources below:
 - [From transactions data to economic statistics: Constructing real-rime, high-frequency, geographic measures of consumer spending](https://www.nber.org/system/files/chapters/c14267/c14267.pdf)
 - [Dankort payments as a timely indicator of retail sales in Denmark](https://www.econstor.eu/bitstream/10419/82313/1/621225231.pdf)
 
-### Seasonal Adjustment of Daily Time Series
-- [Seasonal Adjustment by X-13ARIMA-SEATS in R by Christoph Sax and Dirk Eddelbuettel](http://www.seasonal.website/seasonal.html)
-- [Seasonal Adjustment of Daily Time Series by Daniel Ollech](https://www.bundesbank.de/resource/blob/763892/0d1c33f19a204e2233a6fccc6e802487/mL/2018-10-17-dkp-41-data.pdf)
-- [Automatic Forecasting Procedure by Sean Taylor and Ben Letham](https://facebook.github.io/prophet/)
+### Seasonal adjustment of daily time series
+- [Seasonal adjustment with X-13ARIMA-SEATS in R by Christoph Sax and Dirk Eddelbuettel](http://www.seasonal.website/seasonal.html)
+- [Seasonal adjustment of daily time series by Daniel Ollech](https://www.bundesbank.de/resource/blob/763892/0d1c33f19a204e2233a6fccc6e802487/mL/2018-10-17-dkp-41-data.pdf)
+- [Automatic forecasting procedure by Sean Taylor and Ben Letham](https://facebook.github.io/prophet/)
 - [Workday, holiday and calendar adjustment with 21st century data: Monthly aggregates from daily diesel fuel purchases](https://www.nber.org/papers/w16897)
 - [Using Daily Payment Processor Data to Determine Existence and Length of Retail Shopping Event Effects](https://www.census.gov/content/dam/Census/library/working-papers/2019/econ/hutchinson-czaplicki-adep-wp.pdf)
 - [Modeling of Holiday Effects and Seasonality in Daily Time Series](https://www.census.gov/content/dam/Census/library/working-papers/2018/adrm/rrs2018-01.pdf)
 
-### Payment Behavior in Switzerland
+### Payment behavior in Switzerland
 - [Project Monitoring Consumption Switzerland](https://monitoringconsumption.com/)
 - [Swiss Payment Monitor by Sandro Graf and Tobias Trütsch](https://en.swisspaymentmonitor.ch/)
 - [Survey on Payment Methods by the Swiss National Bank](https://www.snb.ch/en/iabout/paytrans/paytrans_surveys/id/paytrans_survey_2020)
 - [An examination of the economics of payment card systems by David Maurer](https://www.snb.ch/en/mmr/reference/Zahlungskarten/source/Zahlungskarten.en.pdf)
 
-### Academic Writing
+### Academic writing
 - [Academic Phrasebank by the University of Manchester](https://www.phrasebank.manchester.ac.uk/)
 - [Writing tips for PhD students by John H. Cochrane](https://www.johnhcochrane.com/research-all/writing-tips-for-phd-studentsnbsp)
 - [NZZ Visuals Styleguide](https://nzzdev.github.io/Storytelling-Styleguide/#/)
-- [Overleaf Templates](https://de.overleaf.com/latex/templates)
+- [Overleaf templates](https://de.overleaf.com/latex/templates)
 - [Better BibTeX for Zotero by Emiliano Heyns](https://retorque.re/zotero-better-bibtex/)
 
 ### COVID-19 Data Hub
