@@ -41,3 +41,19 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+### Useful resources for working with daily data and seasonal adjustment
+- [Seasonal Adjustment of Daily Time Series by Daniel Ollech](https://cran.r-project.org/package=dsa)
+- [The Prophet Automatic Forecasting Procedure by Sean Taylor and Ben Letham](https://cran.r-project.org/package=prophet)
+- [R Interface to X-13ARIMA-SEATS by Christoph Sax and Dirk Eddelbuettel](http://www.seasonal.website/)
+
+### Useful links to find out more about payment behavior in Switzerland
+- [Project Monitoring Consumption Switzerland](https://monitoringconsumption.com/)
+- [Swiss Payment Monitor by Sandro Graf and Tobias Trütsch](https://en.swisspaymentmonitor.ch/)
+- [Survey on Payment Methods by the Swiss National Bank](https://www.snb.ch/en/iabout/paytrans/paytrans_surveys/id/paytrans_survey_2020)
+
+### Useful links for academic writing
+
+- [Academic Phrasebank by the University of Manchester](https://www.phrasebank.manchester.ac.uk/)
+- [NZZ Visuals Styleguide](https://nzzdev.github.io/Storytelling-Styleguide/#/)
+- [Overleaf Templates](https://de.overleaf.com/latex/templates)
