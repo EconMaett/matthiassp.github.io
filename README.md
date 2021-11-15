@@ -16,6 +16,8 @@ I highly encourage anyone to improve my work and I intend to update this site re
 
 For questions and comments, please do not hesitate to contact me under via [email](mailto:matthias.spichiger@outlook.de?subject=[GitHub]%20Retail%20Index)!
 
+Please find some resources below:
+
 ### The Economist about the Real Time Revolution
 - [The real-time revolution - How the pandemic reshaped the dismal science](https://www.economist.com/briefing/2021/10/23/enter-third-wave-economics)
 - [Real-time danger. Why real-time economic data need to be treated with caution](https://www.economist.com/finance-and-economics/2020/07/23/why-real-time-economic-data-need-to-be-treated-with-caution)
