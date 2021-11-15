@@ -1,46 +1,18 @@
-# Using Payment Transaction Data to monitor Turnover in Retail Trade and Services in Switzerland
+# Wellcome to Retailindex.ch!
 
-Welcome to the Worldline - University of St. Gallen - Retail Trade and Services Index, or WLD-UNISG-RTSI for short.
+This website was created as a one-stop-shop for everyone interested in using payment transaction data to monitoring turnover in the retail trade and services sector.
 
-You may access this website over GitHub or [www.retailindex.ch](https://www.retailindex.ch/).
+By following the instructions on this page, you should be able to reproduce and adjuste the Worldline - University of St. Gallen - Retail Trade and Services Index, or WLD-UNISG-RTSI for short.
 
-Find a list of all available spec-argument combinations on the [seasonal website](http://www.seasonal.website/examples.html).
+This project was created as part of my thesis for my [Master in Economics](https://www.unisg.ch/en/studium/master/volkswirtschaftslehre) at the University of St. Gallen with a specialization in Digitization and Data Analytics.
 
-You can use the [editor on GitHub](https://github.com/MatthiasSP/matthiassp.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+It is an outgrowth of the project [Monitoring Consumption Switzerland](https://monitoringconsumption.com/), a joint initiative of the University of St. Gallen, the University of Lausanne–E4S, and Novalytica, supported by SIX, Worldline as well as the Swiss Payments Association.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You may access this webpage over my [GitHub profile](matthiassp.github.io) or over the custom domain [www.retailindex.ch](https://www.retailindex.ch/).
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MatthiasSP/matthiassp.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 ### Useful resources for working with daily data and seasonal adjustment
 - [Seasonal Adjustment of Daily Time Series by Daniel Ollech](https://cran.r-project.org/package=dsa)
@@ -57,3 +29,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 - [Academic Phrasebank by the University of Manchester](https://www.phrasebank.manchester.ac.uk/)
 - [NZZ Visuals Styleguide](https://nzzdev.github.io/Storytelling-Styleguide/#/)
 - [Overleaf Templates](https://de.overleaf.com/latex/templates)
+
+### COVID-19 Data Hub
+- [COVID-19 Data Hub by Emanuele Guidotti, David Ardia, and Will Rowe](https://doi.org/10.21105/joss.02376)
