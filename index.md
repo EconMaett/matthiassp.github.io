@@ -10,9 +10,13 @@ It is an outgrowth of the project [Monitoring Consumption Switzerland](https://m
 
 You may access this webpage over my [GitHub profile](matthiassp.github.io) or over the custom domain [www.retailindex.ch](https://www.retailindex.ch/).
 
-### Markdown
+Please note that the opinions expressed herein reflect those of the author and not necessarily those of the University of St. Gallen or of the project Monitoring Consumption Switzerland.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is a public repository with an [MIT license](https://choosealicense.com/licenses/mit/), allowing anyone to modify and distribute this software and associated documentation files as long as the corresponding copyright notice and permission are included.
+
+I highly encourage anyone to improve my work and I intend to update this site regularly. An interactive applicaition using [Shiny](shiny.rstudio.com/) is currently under construction and should go live by December 2021.
+
+For questions and comments, please do not hesitate to contact me under via [email](mailto:matthias.spichiger@outlook.de?subject=[Retailindex]%20Source%20Han%20Sans)!
 
 ### Useful resources for working with daily data and seasonal adjustment
 - [Seasonal Adjustment of Daily Time Series by Daniel Ollech](https://cran.r-project.org/package=dsa)
@@ -23,10 +27,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 - [Project Monitoring Consumption Switzerland](https://monitoringconsumption.com/)
 - [Swiss Payment Monitor by Sandro Graf and Tobias Trütsch](https://en.swisspaymentmonitor.ch/)
 - [Survey on Payment Methods by the Swiss National Bank](https://www.snb.ch/en/iabout/paytrans/paytrans_surveys/id/paytrans_survey_2020)
+- [An examination of the economics of payment card systems by David Maurer](https://www.snb.ch/en/mmr/reference/Zahlungskarten/source/Zahlungskarten.en.pdf)
 
 ### Useful links for academic writing
 
 - [Academic Phrasebank by the University of Manchester](https://www.phrasebank.manchester.ac.uk/)
+- [Writing tips for PhD students by John H. Cochrane](https://www.johnhcochrane.com/research-all/writing-tips-for-phd-studentsnbsp)
 - [NZZ Visuals Styleguide](https://nzzdev.github.io/Storytelling-Styleguide/#/)
 - [Overleaf Templates](https://de.overleaf.com/latex/templates)
 - [Better BibTeX for Zotero by Emiliano Heyns](https://retorque.re/zotero-better-bibtex/)
