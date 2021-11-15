@@ -21,18 +21,18 @@ For questions and comments, please do not hesitate to contact me under via [emai
 - [Real-time danger. Why real-time economic data need to be treated with caution](https://www.economist.com/finance-and-economics/2020/07/23/why-real-time-economic-data-need-to-be-treated-with-caution)
 
 ### Nowcasting retail sales using payment transaction data:
-- [Card spending dynamics in Turkey during the COVID-19 pandemic](https://doi.org/10.1016/j.cbrev.2021.07.002)
-- [Tracking the COVID-19 crisis with high-resolution transaction data](https://doi.org/10.1098/rsos.210218)
-- [From transactions data to economic statistics: Constructing real-rime, high-frequency, geographic measures of consumer spending](https://www.nber.org/books-and-chapters/big-data-twenty-first-century-economic-statistics/transactions-data-economic-statistics-constructing-real-time-high-frequency-geographic-measures)
-- [Dankort payments as a timely indicator of retail sales in Denmark](http://hdl.handle.net/10419/82313)
+- [Card spending dynamics in Turkey during the COVID-19 pandemic](https://reader.elsevier.com/reader/sd/pii/S1303070121000226?token=7B31B2E98AFFE6C98CD922F8874FF7B4857CD9B6FF9AFA49CAA7B91A21E085BBFD782E44364BC84F2CD33A026F40DD06&originRegion=eu-west-1&originCreation=20211115151955)
+- [Tracking the COVID-19 crisis with high-resolution transaction data](https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.210218)
+- [From transactions data to economic statistics: Constructing real-rime, high-frequency, geographic measures of consumer spending](https://www.nber.org/system/files/chapters/c14267/c14267.pdf)
+- [Dankort payments as a timely indicator of retail sales in Denmark](https://www.econstor.eu/bitstream/10419/82313/1/621225231.pdf)
 
 ### Seasonal Adjustment of Daily Time Series
 - [Seasonal Adjustment by X-13ARIMA-SEATS in R by Christoph Sax and Dirk Eddelbuettel](http://www.seasonal.website/seasonal.html)
 - [Seasonal Adjustment of Daily Time Series by Daniel Ollech](https://www.bundesbank.de/resource/blob/763892/0d1c33f19a204e2233a6fccc6e802487/mL/2018-10-17-dkp-41-data.pdf)
-- [Automatic Forecasting Procedure by Sean Taylor and Ben Letham](https://doi.org/10.1080/00031305.2017.1380080)
+- [Automatic Forecasting Procedure by Sean Taylor and Ben Letham](https://facebook.github.io/prophet/)
 - [Workday, holiday and calendar adjustment with 21st century data: Monthly aggregates from daily diesel fuel purchases](https://www.nber.org/papers/w16897)
-- [Using Daily Payment Processor Data to Determine Existence and Length of Retail Shopping Event Effects](https://www.census.gov/library/working-papers/2019/econ/adep-wp-hutchinson-czaplicki.html)
-- [Modeling of Holiday Effects and Seasonality in Daily Time Series](https://www.census.gov/library/working-papers/2018/adrm/rrs2018-01.html)
+- [Using Daily Payment Processor Data to Determine Existence and Length of Retail Shopping Event Effects](https://www.census.gov/content/dam/Census/library/working-papers/2019/econ/hutchinson-czaplicki-adep-wp.pdf)
+- [Modeling of Holiday Effects and Seasonality in Daily Time Series](https://www.census.gov/content/dam/Census/library/working-papers/2018/adrm/rrs2018-01.pdf)
 
 ### Payment Behavior in Switzerland
 - [Project Monitoring Consumption Switzerland](https://monitoringconsumption.com/)
