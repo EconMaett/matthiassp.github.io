@@ -4,7 +4,7 @@ This website was created as a one-stop-shop for everyone interested in using pay
 
 By following the instructions on this page, you should be able to reproduce and adjuste the Worldline - University of St. Gallen - Retail Trade and Services Index, or WLD-UNISG-RTSI for short.
 
-This project was created as part of my thesis for my [Master in Economics](https://www.unisg.ch/en/studium/master/volkswirtschaftslehre) at the University of St. Gallen with a specialization in Digitization and Data Analytics.
+This project was created as part of my thesis for my Master in Economics at the University of St. Gallen with a specialization in Digitization and Data Analytics.
 
 It is an outgrowth of the project [Monitoring Consumption Switzerland](https://monitoringconsumption.com/), a joint initiative of the University of St. Gallen, the University of Lausanne–E4S, and Novalytica, supported by SIX, Worldline as well as the Swiss Payments Association.
 
