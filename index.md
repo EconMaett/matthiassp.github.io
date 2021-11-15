@@ -16,7 +16,7 @@ This is a public repository with an [MIT license](https://choosealicense.com/lic
 
 I highly encourage anyone to improve my work and I intend to update this site regularly. An interactive applicaition using [Shiny](shiny.rstudio.com/) is currently under construction and should go live by December 2021.
 
-For questions and comments, please do not hesitate to contact me under via [email](mailto:matthias.spichiger@outlook.de?subject=[Retailindex]%20Source%20Han%20Sans)!
+For questions and comments, please do not hesitate to contact me under via [email](mailto:matthias.spichiger@outlook.de?subject=[GitHub]%20Retail%20Index)!
 
 ### Useful resources for working with daily data and seasonal adjustment
 - [Seasonal Adjustment of Daily Time Series by Daniel Ollech](https://cran.r-project.org/package=dsa)
