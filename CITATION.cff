@@ -1,0 +1,23 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Spichiger"
+  given-names: "Matthias"
+  orcid: "https://orcid.org/0000-0003-0368-5175"
+title: "WLN-UNISG-RTSI Software"
+version: 1.0.0
+date-released: 2021-11-22
+url: "https://www.retailindex.ch/"
+preferred-citation:
+  type: mastersthesis
+  authors:
+  - family-names: "Spichiger"
+    given-names: "Matthias"
+    orcid: "https://orcid.org/0000-0003-0368-5175"
+  title: "Using Payment Transaction Data to monitor Turnover in Retail Trade and Services in Switzerland"
+  school: "University of St. Gallen - School of Management, Economics, Law, Social Sciences,\\ International Affairs and Computer Science"
+  address: "Höhenweg 21, 8032 Zürich, Switzerland"
+  year: 2021
+  month: 11
+  start: 1 # First page number
+  end: 100 # Last page number
