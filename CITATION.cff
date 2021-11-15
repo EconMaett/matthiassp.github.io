@@ -7,9 +7,16 @@ authors:
 title: "WLN-UNISG-RTSI Software"
 version: 1.0.0
 date-released: 2021-11-22
-url: "https://www.retailindex.ch/"
+identifiers:
+  - description: "This is the collection of the code used to produce my thesis"
+keywords:
+  - "seasonal adjustment"
+  - research
+license: MIT License
+repository-code: "https://github.com/MatthiasSP/matthiassp.github.io"
 preferred-citation:
   type: report
+  url: "https://www.retailindex.ch/"
   authors:
   - family-names: "Spichiger"
     given-names: "Matthias"
@@ -21,3 +28,4 @@ preferred-citation:
   month: 11
   start: 1 # First page number
   end: 100 # Last page number
+  abstract: "Using a representative sample of payment transaction data from Worldline, the largest merchant acquirer in Switzerland, I build indexes to monitor turnover in retail trade and services in Switzerland with a daily, weekly, and monthly frequency. To validate the new series, I examine their dynamics to that of the official Retail Trade Turnover Statistics (DHU) which are produced by the Swiss Federal Statistical Office (FSO) on a monthly basis. After documenting the challenges associated with the payment transaction data, I propose solutions to adress these and I publish the Worldline-Universty of St. Gallen-Retail Trade and Services Index, or WLN-UNISG-RTSI for short."
