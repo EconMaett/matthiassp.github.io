@@ -29,7 +29,7 @@ For questions and comments, please do not hesitate to contact me under via [emai
 - [From transactions data to economic statistics: Constructing real-rime, high-frequency, geographic measures of consumer spending](https://www.nber.org/books-and-chapters/big-data-twenty-first-century-economic-statistics/transactions-data-economic-statistics-constructing-real-time-high-frequency-geographic-measures)
 
 ### Seasonal Adjustment of Daily Time Series
-- [Seasonal Adjustment of Daily Time Series by Daniel Ollech](https://doi.org/10.1515/jtse-2020-0028)
+- [Seasonal Adjustment of Daily Time Series by Daniel Ollech](https://www.bundesbank.de/resource/blob/763892/0d1c33f19a204e2233a6fccc6e802487/mL/2018-10-17-dkp-41-data.pdf)
 - [Automatic Forecasting Procedure by Sean Taylor and Ben Letham](https://doi.org/10.1080/00031305.2017.1380080)
 - [Workday, holiday and calendar adjustment with 21st century data: Monthly aggregates from daily diesel fuel purchases](https://www.nber.org/papers/w16897)
 - [Seasonal Adjustment by X-13ARIMA-SEATS in R by Christoph Sax and Dirk Eddelbuettel](https://doi.org/10.18637/jss.v087.i11)
