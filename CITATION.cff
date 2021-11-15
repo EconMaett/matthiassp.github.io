@@ -9,7 +9,7 @@ version: 1.0.0
 date-released: 2021-11-22
 url: "https://www.retailindex.ch/"
 preferred-citation:
-  type: thesis
+  type: report
   authors:
   - family-names: "Spichiger"
     given-names: "Matthias"
