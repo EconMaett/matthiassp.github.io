@@ -29,7 +29,7 @@ For questions and comments, please do not hesitate to contact me under via [emai
 - [From transactions data to economic statistics: Constructing real-rime, high-frequency, geographic measures of consumer spending](https://www.nber.org/books-and-chapters/big-data-twenty-first-century-economic-statistics/transactions-data-economic-statistics-constructing-real-time-high-frequency-geographic-measures)
 
 ### Seasonal Adjustment of Daily Time Series
-- [Seasonal Adjustment of Daily Time Series by Daniel Ollech](https://doi.org/10.1515/jtse-2020-0028), [DSA package](https://cran.r-project.org/package=dsa)
+- Ollech, Daniel. "Seasonal Adjustment of Daily Time Series" Journal of Time Series Econometrics, vol. 13, no. 2, 2021, pp. 235-264. https://doi.org/10.1515/jtse-2020-0028
 - Automatic Forecasting Procedure by Sean Taylor and Ben Letham: [The Prophet method](https://cran.r-project.org/package=prophet), Paper: [Forecasting at scale](https://doi.org/10.1080/00031305.2017.1380080)
 - [Workday, holiday and calendar adjustment with 21st century data: Monthly aggregates from daily diesel fuel purchases](https://www.nber.org/papers/w16897)
 - [Modeling of Holiday Effects and Seasonality in Daily Time Series](https://www.census.gov/library/working-papers/2018/adrm/rrs2018-01.html)
