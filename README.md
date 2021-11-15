@@ -22,7 +22,7 @@ Please find some resources below:
 - [The real-time revolution - How the pandemic reshaped the dismal science](https://www.economist.com/briefing/2021/10/23/enter-third-wave-economics)
 - [Real-time danger. Why real-time economic data need to be treated with caution](https://www.economist.com/finance-and-economics/2020/07/23/why-real-time-economic-data-need-to-be-treated-with-caution)
 
-### Nowcasting retail sales using payment transaction data:
+### Nowcasting retail sales using payment transaction data
 - [Card spending dynamics in Turkey during the COVID-19 pandemic](https://reader.elsevier.com/reader/sd/pii/S1303070121000226?token=7B31B2E98AFFE6C98CD922F8874FF7B4857CD9B6FF9AFA49CAA7B91A21E085BBFD782E44364BC84F2CD33A026F40DD06&originRegion=eu-west-1&originCreation=20211115151955)
 - [Tracking the COVID-19 crisis with high-resolution transaction data](https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.210218)
 - [From transactions data to economic statistics: Constructing real-rime, high-frequency, geographic measures of consumer spending](https://www.nber.org/system/files/chapters/c14267/c14267.pdf)
