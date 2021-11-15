@@ -15,8 +15,7 @@ keywords:
 license: MIT License
 repository-code: "https://github.com/MatthiasSP/matthiassp.github.io"
 preferred-citation:
-  thesis-type: "Master thesis"
-  type: generic
+  type: article
   url: "https://www.retailindex.ch/"
   authors:
   - family-names: "Spichiger"
