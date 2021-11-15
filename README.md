@@ -27,7 +27,7 @@ For questions and comments, please do not hesitate to contact me under via [emai
 - [Dankort payments as a timely indicator of retail sales in Denmark](http://hdl.handle.net/10419/82313)
 
 ### Seasonal Adjustment of Daily Time Series
-- [Seasonal Adjustment by X-13ARIMA-SEATS in R by Christoph Sax and Dirk Eddelbuettel](https://doi.org/10.18637/jss.v087.i11)
+- [Seasonal Adjustment by X-13ARIMA-SEATS in R by Christoph Sax and Dirk Eddelbuettel](http://www.seasonal.website/seasonal.html)
 - [Seasonal Adjustment of Daily Time Series by Daniel Ollech](https://www.bundesbank.de/resource/blob/763892/0d1c33f19a204e2233a6fccc6e802487/mL/2018-10-17-dkp-41-data.pdf)
 - [Automatic Forecasting Procedure by Sean Taylor and Ben Letham](https://doi.org/10.1080/00031305.2017.1380080)
 - [Workday, holiday and calendar adjustment with 21st century data: Monthly aggregates from daily diesel fuel purchases](https://www.nber.org/papers/w16897)
