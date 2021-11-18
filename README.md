@@ -19,6 +19,7 @@ For questions and comments, please do not hesitate to contact me under via [emai
 Please find some useful resources below:
 
 ### The Economist about the real time revolution in economics
+- [Instant economics - A real-time revolution will up-end the practice of macroeconomics](https://www.economist.com/leaders/2021/10/23/a-real-time-revolution-will-up-end-the-practice-of-macroeconomics)
 - [The real-time revolution - How the pandemic reshaped the dismal science](https://www.economist.com/briefing/2021/10/23/enter-third-wave-economics)
 - [Real-time danger. Why real-time economic data need to be treated with caution](https://www.economist.com/finance-and-economics/2020/07/23/why-real-time-economic-data-need-to-be-treated-with-caution)
 
