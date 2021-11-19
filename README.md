@@ -54,6 +54,7 @@ Please find some useful resources below:
 - [COVID-19 Data Hub by Emanuele Guidotti, David Ardia, and Will Rowe](https://doi.org/10.21105/joss.02376)
 
 ### Learning R
+- [Mastering Shiny by Hadley Wickham](https://mastering-shiny.org/)
 - [Forecasting: Principles and Practice by Rob J Hyndman and George Athanasopoulos](https://otexts.com/fpp3/)
 - [Advanced R by Hadley Wickham](https://adv-r.hadley.nz/)
 - [Advanced R Solutions Malte Grosser, Henning Bumann & Hadley Wickham](https://advanced-r-solutions.rbind.io/)
