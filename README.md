@@ -59,4 +59,4 @@ Please find some useful resources below:
 - [Mastering Shiny Solutions by Maya Gans, Harly Gotti, and Howard Baek](https://mastering-shiny-solutions.netlify.app/index.html)
 - [Forecasting: Principles and Practice by Rob J Hyndman and George Athanasopoulos](https://otexts.com/fpp3/)
 - [Advanced R by Hadley Wickham](https://adv-r.hadley.nz/)
-- [Advanced R Solutions Malte Grosser, Henning Bumann & Hadley Wickham](https://advanced-r-solutions.rbind.io/)
+- [Advanced R Solutions by Malte Grosser, Henning Bumann & Hadley Wickham](https://advanced-r-solutions.rbind.io/)
